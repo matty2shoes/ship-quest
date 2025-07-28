@@ -576,4 +576,4 @@ async def guide(ctx):
 
 
 bot.run(
-    "MTM5ODQ5OTE4OTEzODI2NDE1NQ.G4F1Eg.ar_-u9cjH9UosjiwWEXFCXAuzsq6bTR6bm1oso")
+    "DISCORD_TOKEN")
